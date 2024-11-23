@@ -1,4 +1,4 @@
-**EGCP180, Spring 2023** (**Dofe**)  
+**EGCP180, Spring 2023** (**Dofe / Mahto**)  
 
 Digital Logic and Computer Structures.
 
