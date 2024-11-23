@@ -1,4 +1,4 @@
-**EGCP180, Spring 2023** (**Dofe / Mahto**)  
+**EGCP180, Spring 2023 (Medical W)/Spring 2024** (**Dofe / Mahto**)  
 
 Digital Logic and Computer Structures.
 
